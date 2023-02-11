@@ -1,0 +1,6 @@
+.bg-image {
+    background-image: url('voiture1.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+  }
